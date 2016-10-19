@@ -1,0 +1,25 @@
+{
+  "name": "hangman",
+  "version": "1.0.0",
+  "description": "Simple Hangman game in node.js",
+  "main": "main.js",
+  "dependencies": {
+    "init": "^0.1.2",
+    "inquirer": "^1.2.2",
+    "require": "^2.4.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gmes23/week11-Hangman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gmes23/week11-Hangman/issues"
+  },
+  "homepage": "https://github.com/Gmes23/week11-Hangman#readme"
+}
